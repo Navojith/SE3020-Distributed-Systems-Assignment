@@ -8,12 +8,26 @@ IT21214752	Perera S. S
 IT21219252	Senadheera S. A. A. D
 
 # Original Repositories ( If you want to see commit histories)
+<ul>
+ <li>
 Frontend: https://github.com/Navojith/DS-Assignment-frontend
+ </li> 
+  <li>
 Course Management Service: https://github.com/Dinal-Senadheera/course_management_service
+ </li> 
+  <li>
 Payment Service: https://github.com/ch4mi2/Payment-Service-Distributed-Systems-Assignment
+ </li> 
+  <li>
 Auth Service: https://github.com/ShenanPerera/auth-service
+ </li> 
+  <li>
 Notification Service: https://github.com/Navojith/DS-Assignment-notification-service
+ </li> 
+  <li>
 Progression Service: https://github.com/Navojith/DS-Assignment-progression-service
+ </li> 
+</ul>
 
 
 # Project Documentation
