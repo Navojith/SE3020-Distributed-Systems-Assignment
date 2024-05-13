@@ -51,6 +51,12 @@ minikube start
 minikube -p minikube docker-env --shell powershell | Invoke-Expression
 ```
 
+Docker build all service
+
+```bash
+docker build -t servicename-image .
+```
+
 5. Apply Kubernetes deployment and service configurations:
 
 ```bash
