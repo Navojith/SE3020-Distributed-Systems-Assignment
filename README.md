@@ -78,10 +78,6 @@ To access each service, open a new terminal window and port forward to the respe
 - For `auth`, `course`, and `payment` services, create a `.env` file in each service's directory and provide the MongoDB URI.
 - For `progression` and `notification` services, create configuration files and configure cluster IPs after deployment.
 
-## Contributions
-
-Contributions are welcome! Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
