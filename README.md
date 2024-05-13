@@ -71,11 +71,7 @@ kubectl get services
 
 To access each service, open a new terminal window and port forward to the respective service port:
 
-- Payment Service: `kubectl port-forward svc/payment-service 3009:3009`
-- Course Service: `kubectl port-forward svc/course-service 3001:3001`
-- Progression Service: `kubectl port-forward svc/progression-service 3002:3002`
-- Notification Service: `kubectl port-forward svc/notification-service 3004:3004`
-- Auth Service: `kubectl port-forward svc/auth-service 3010:3010`
+`kubectl port-forward svc/payment-service port:port`
 
 ## Configuration
 
