@@ -1,0 +1,32 @@
+{
+  "ROOT": {
+    "route": "/"
+  },
+  "LOGIN": {
+    "route": "/login"
+  },
+  "SIGNUP": {
+    "route": "/signup"
+  },
+  "ACCOUNT": {
+    "route": "/account"
+  },
+  "COURSE": {
+    "route": "/course",
+    "subRoutes": {
+      "courseId": ":courseId"
+    }
+  },
+  "MY_COURSES": {
+    "route": "/my-courses"
+  },
+  "CREATE_COURSE": {
+    "route": "/create-course"
+  },
+  "EDIT_COURSE": {
+    "route": "/edit-course/:id"
+  },
+  "COURSE_CONTENT": {
+    "route": "/course-content/:id"
+  }
+}
