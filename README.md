@@ -1,11 +1,20 @@
 # SE3020-Distributed-Systems-Assignment
 
 # Member Details
-
+<ul>
+ <li>
 IT21237904	Gunawardana U. G. C. D	
-IT21286414	Gunathilaka L. P. N		
-IT21214752	Perera S. S
+ </li>
+ <li>
 IT21219252	Senadheera S. A. A. D
+ </li>
+ <li>
+IT21286414	Gunathilaka L. P. N		
+ </li>
+ <li>
+IT21214752	Perera S. S
+ </li>
+</ul>
 
 # Original Repositories ( If you want to see commit histories)
 <ul>
