@@ -1,7 +1,22 @@
 # SE3020-Distributed-Systems-Assignment
 
-# Project README
+# Member Details
 
+IT21237904	Gunawardana U. G. C. D	
+IT21286414	Gunathilaka L. P. N		
+IT21214752	Perera S. S
+IT21219252	Senadheera S. A. A. D
+
+# Original Repositories ( If you want to see commit histories)
+Frontend: https://github.com/Navojith/DS-Assignment-frontend
+Course Management Service: https://github.com/Dinal-Senadheera/course_management_service
+Payment Service: https://github.com/ch4mi2/Payment-Service-Distributed-Systems-Assignment
+Auth Service: https://github.com/ShenanPerera/auth-service
+Notification Service: https://github.com/Navojith/DS-Assignment-notification-service
+Progression Service: https://github.com/Navojith/DS-Assignment-progression-service
+
+
+# Project Documentation
 This repository contains the codebase for a distributed system composed of various microservices. Below are the steps to set up and run the system locally for development or testing purposes.
 
 ## Prerequisites
