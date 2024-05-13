@@ -22,36 +22,19 @@ git clone https://github.com/yourusername/project.git
 cd project
 ```
 
-2. Install dependencies for all services (except payment-service and auth-service):
-
-```bash
-pnpm i
-```
-
-For `payment-service` and `auth-service`, use npm:
-
-```bash
-cd payment-service
-npm i
-cd ..
-cd auth-service
-npm i
-cd ..
-```
-
-3. Start Minikube:
+2. Start Minikube:
 
 ```bash
 minikube start
 ```
 
-4. Configure Docker to use Minikube's Docker daemon:
+3. Configure Docker to use Minikube's Docker daemon:
 
 ```bash
 minikube -p minikube docker-env --shell powershell | Invoke-Expression
 ```
 
-Docker build all service
+4. Build docker images for all services
 
 ```bash
 docker build -t servicename-image .
