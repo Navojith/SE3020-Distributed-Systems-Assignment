@@ -1,0 +1,7 @@
+& minikube -p minikube docker-env --shell powershell | Invoke-Expression
+
+kubectl port-forward svc/payment-service 3009:3009
+
+ kubectl apply  -f deployment.yaml
+
+ kubectl apply  -f service.yaml
